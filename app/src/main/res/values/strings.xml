@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MinhasTarefas</string>
+    <string name="error_email_already_in_use">Esta email já existe.</string>
+    <string name="error_invalid_email">Email invalido! Tente novamente.</string>
+    <string name="error_password_too_short">Senha muito curta, minimo de 8 caracteres.</string>
+    <string name="error_password_no_confirmation">A senha deve esta igual no campode confirmação.</string>
+    <string name="error_create_user">Erro ao cadastrar usuário.</string>
+    <string name="error_password_no_uppercase">A senha deve ter letras mausculas e menusculas.</string>
+    <string name="error_password_no_digit">A senha deve ter numeros.</string>
+    <string name="error_unknown">Ocorreu algum erro! Tente novamente mais tarde.</string>
+
+</resources>
